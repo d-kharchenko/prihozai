@@ -1,0 +1,49 @@
+{
+	"prod": [
+		{
+		"name": "1C Зарплата",
+		"price": "10500",
+		"shortDescription": "Програмний продукт “1С: Зарплата” призначена для , як самостійних, так і входять до розподілену роздрібну мережу.",
+		"description": "Програмний продукт “1С: Lorem ipsum dolor sit amet, consectetur, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+		"image": "img/1C-small-bussines.jpg",
+		"sale": false,
+		"topSale": false
+	}, 
+	{
+		"name": "1C Бухгалтерія",
+		"price": "8400",
+		"shortDescription": "Програмний продукт “1С: Зарплата” призначена для автоматизації бізнес-процесів, як самостійних, .",
+		"description": "Програмний продукт “1С: Lorem  consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+		"image": "img/1C-small-bussines.jpg",
+		"sale": false,
+		"topSale": true
+	},
+	{
+		"name": "1C Торгівля",
+		"price": "75000",
+		"shortDescription": "Програмний продукт “1С: Зарплата” призначена для автоматизації бізнес-процесів, як самостійних, так і входять .",
+		"description": "Програмний продукт “1С: Lorem ipsum dolor sit amet, consectetur adipisicing elit,  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+		"image": "img/1C-small-bussines.jpg",
+		"sale": true,
+		"topSale": true
+	},
+	{
+		"name": "1C СГ",
+		"price": "750000",
+		"shortDescription": "Програмний продукт “1С” призначена для автоматизації бізнес-процесів, як самостійних, так і входять .",
+		"description": "Програмний продукт “1С: Lorem ipsum dolor sit isicing elit,  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+		"image": "img/1C-small-bussines.jpg",
+		"sale": true,
+		"topSale": true
+	},{
+		"name": "1C Торгі",
+		"price": "7500",
+		"shortDescription": "Програмний продукт “1С: Зарплата” призначена для автоматизаців, як самостійних, так і входять .",
+		"description": "Програмний продукт “1С: Lorem ipsum dolor sit amet, consectetur adipisicing elit,  incilabore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+		"image": "img/1C-small-bussines.jpg",
+		"sale": true,
+		"topSale": true
+	}
+	]
+
+}
